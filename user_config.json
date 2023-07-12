@@ -8,7 +8,7 @@
     "AutoOpenDoc": 2,
     "CommentFontSize": 16,
     "CustomColors": "#feeb73 #a0ec6e #59c6ff #ff8280 #f89e02 #60bb46 #ffaaff #ff0000 #d49047 #01ff01 #01fffd #000000",
-    "EpubFont": "微软雅黑",
+    "EpubFont": "Noto Sans CJK SC",
     "Highlight": {
         "FillColor": "fffeeb73"
     },
@@ -60,7 +60,7 @@
     },
     "LinePen": {
         "Color": "ffb9ddfd",
-        "Width": 15
+        "Width": 12
     },
     "MindNodeShowFlags": 15,
     "MindNodeWidth": 350,

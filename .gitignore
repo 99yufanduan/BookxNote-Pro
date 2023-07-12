@@ -1,0 +1,6 @@
+# 忽略的文件夹
+book/
+
+# 忽略的特定文件
+#path/to/specific-file.txt
+

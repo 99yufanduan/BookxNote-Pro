@@ -1,0 +1,9 @@
+13:16:06 >> dav.jianguoyun.com
+14:30:07 >> mkdir:/notebooks/eigen/
+14:30:09 >> UpLoad file:/notebooks/manifest.json
+14:30:09 >> /notebooks/eigen/manifest.json server replied: Not Found
+14:30:10 >> UpLoad file:/notebooks/eigen/manifest.json
+14:30:11 >> mkdir:/notebooks/eigen/resources/
+14:30:34 >> mkdir:/notebooks/白岩松白说/resources/
+22:32:12 >> /notebooks/SLAM十四讲_小白学视觉/markups.json server replied: Not Found
+22:32:14 >> UpLoad error:/notebooks/SLAM十四讲_小白学视觉/markups.json

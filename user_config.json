@@ -1,0 +1,81 @@
+{
+    "": {
+        "Width": 2
+    },
+    "AddNoteActiveEdit": true,
+    "AlwaysShowComment": false,
+    "AutoAddtoOutline": true,
+    "AutoOpenDoc": 2,
+    "CommentFontSize": 16,
+    "CustomColors": "#feeb73 #a0ec6e #59c6ff #ff8280 #f89e02 #60bb46 #ffaaff #ff0000 #d49047 #01ff01 #01fffd #000000",
+    "EpubFont": "微软雅黑",
+    "Highlight": {
+        "FillColor": "fffeeb73"
+    },
+    "HotKeys": {
+        "101": "Alt+S",
+        "112": "Ctrl+C",
+        "120": "Ctrl+O",
+        "126": "Ctrl+W",
+        "139": "Ctrl+F",
+        "140": "Shift+F3",
+        "141": "F3",
+        "149": "Ctrl+B",
+        "165": "Alt+A",
+        "167": "Alt+P",
+        "171": "Alt+L",
+        "221": "Alt+F",
+        "222": "Alt+Q",
+        "223": "Alt+W",
+        "234": "Alt+H",
+        "238": "Alt+E",
+        "239": "F2",
+        "252": "Ctrl+Shift+O",
+        "261": "Alt+M",
+        "262": "Alt+N",
+        "274": "Ctrl+T",
+        "276": "Alt+I",
+        "277": "Alt+U",
+        "278": "Alt+J",
+        "290": "Alt+F",
+        "309": "Alt+C",
+        "310": "Alt+R",
+        "311": "Alt+D",
+        "318": "F10",
+        "334": "Alt+B",
+        "337": "Alt+G",
+        "377": "Alt+K",
+        "396": "Alt+L",
+        "424": "Alt+V",
+        "439": "Alt+X",
+        "440": "F11",
+        "443": "Ctrl+Z",
+        "444": "Ctrl+Y",
+        "485": "Alt+Z",
+        "521": "F8",
+        "571": "Alt+O"
+    },
+    "Line": {
+        "Width": 2
+    },
+    "LinePen": {
+        "Color": "ffb9ddfd",
+        "Width": 15
+    },
+    "MindNodeShowFlags": 15,
+    "MindNodeWidth": 350,
+    "NoTooltipOnNote": false,
+    "ParentNodeExpand": false,
+    "PenShowTraces": true,
+    "Rectangle": {
+        "Width": 2
+    },
+    "ShowCommentIcon": true,
+    "ShowLineTrace": false,
+    "ShowMarkupToolbar": true,
+    "ShowMode": 2,
+    "TextFrameFontSize": 7,
+    "TitleFontSize": 12,
+    "UseMouseClick": true,
+    "VerticalPattern": false
+}

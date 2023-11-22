@@ -1,5 +1,65 @@
 [
     {
+        "./Structure PLP-SLAM Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Camera": [
+            0,
+            -1,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff000000010000000200000596000001660000000001000000000101"
+        ],
+        "~entry": "Structure PLP-SLAM Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Camera",
+        "~id": "{1aad736e-5110-44a6-a33b-580958309118}",
+        "~mod": "2023-11-22 15:47:52"
+    },
+    {
+        "./Optimization for RGB-D SLAM based on plane geometrical constraint": [
+            0,
+            -1,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff000000010000000200000596000001660000000001000000000101"
+        ],
+        "~entry": "Optimization for RGB-D SLAM based on plane geometrical constraint",
+        "~id": "{17fc4eaa-d0d9-489e-8d21-110b3cfd7cff}",
+        "~mod": "2023-11-22 15:47:51"
+    },
+    {
+        "./RGB-D SLAM with Structural Regularities": [
+            0,
+            -1,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff000000010000000200000596000001660000000001000000000101"
+        ],
+        "~entry": "RGB-D SLAM with Structural Regularities",
+        "~id": "{8c7ce19a-d65e-426c-bb4d-21f5cd39eff6}",
+        "~mod": "2023-11-22 15:47:51"
+    },
+    {
         "./SLAM十四讲_小白学视觉": [
             0,
             -1,
@@ -17,7 +77,7 @@
         ],
         "~entry": "SLAM十四讲_小白学视觉",
         "~id": "{8f599133-1de5-432b-9f28-9118f0f932d7}",
-        "~mod": "2023-11-21 22:21:07"
+        "~mod": "2023-11-22 15:47:51"
     },
     {
         "./学习OpenCV 3 中文版": [
@@ -37,7 +97,7 @@
         ],
         "~entry": "学习OpenCV 3 中文版",
         "~id": "{93a0f2f4-92cf-45a8-8e33-750e6e028a45}",
-        "~mod": "2023-11-21 22:21:07"
+        "~mod": "2023-11-22 15:47:51"
     },
     {
         "./刻意练习：如何从新手到大师": [
@@ -1978,45 +2038,5 @@
         "~entry": "(54条消息) Harris角点检测原理详解_lwzkiller的博客-CSDN博客_harris角点检测原理",
         "~id": "{a2330d9a-76ff-464d-828a-72ca4e2c6ffd}",
         "~mod": "2023-04-18 00:03:49"
-    },
-    {
-        "./Linux常用命令学习 - gaojun - 博客园": [
-            0,
-            -1,
-            100,
-            0,
-            0,
-            false,
-            0,
-            false,
-            0,
-            false,
-            false,
-            false,
-            "000000ff0000000100000002000005dc000001770000000001000000000201"
-        ],
-        "~entry": "Linux常用命令学习 - gaojun - 博客园",
-        "~id": "{3ec2e468-0dc9-437f-bdf5-98e99f72624f}",
-        "~mod": "2023-04-18 00:03:48"
-    },
-    {
-        "./1_【知识星球】理解图优化，一步步带你看懂g2o框架": [
-            0,
-            -1,
-            100,
-            0,
-            0,
-            false,
-            0,
-            false,
-            0,
-            false,
-            false,
-            false,
-            "000000ff0000000100000002000005dc000001770000000001000000000201"
-        ],
-        "~entry": "1_【知识星球】理解图优化，一步步带你看懂g2o框架",
-        "~id": "{64f799df-134b-49a1-933e-b7d5f137c381}",
-        "~mod": "2023-04-18 00:03:47"
     }
 ]

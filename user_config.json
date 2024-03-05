@@ -73,7 +73,7 @@
     "ShowCommentIcon": true,
     "ShowLineTrace": false,
     "ShowMarkupToolbar": true,
-    "ShowMode": 2,
+    "ShowMode": 0,
     "TextFrameFontSize": 7,
     "TitleFontSize": 12,
     "UseMouseClick": true,
